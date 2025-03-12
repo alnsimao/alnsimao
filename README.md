@@ -6,5 +6,5 @@ Olá! Eu sou o Alan, um estudante de Ciência da Computação apaixonado por tec
 
 ## Interesses e Objetivos.
 
-Meu principal objetivo é aprender e evoluir cada vez mais na área de desenvolvimento. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades e contribuir para projetos inovadores.
+Meu principal objetivo é aprender e evoluir cada vez mais na área de desenvolvimento de software. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades e contribuir para projetos inovadores.
 
