@@ -1,40 +1,48 @@
-<div align="center">
-  <img src="https://i.imgur.com/vHq4wXy.png" alt="Satoru Gojo Banner com olhos brilhantes" width="750"/>
-  <h1 style="color:#00BFFF;">Alan - O Feiticeiro da Programação</h1>
-  <p style="color:#8A2BE2;">"A verdadeira força reside no aprendizado contínuo."</p>
+<img src="https://i.pinimg.com/originals/c0/02/25/c00225f23fa4177343b4a2ac9b30de48.gif" width="100%" alt="Banner estilo Sukuna" />
+
+<h1 align="center">🩸 Alan | Java Dev em Ascensão 🩸</h1>
+
+<p align="center">
+  <i>“Conhecimento é poder — e eu gosto de manter o controle.”</i>
+</p>
+
+---
+
+### 🧠 Sobre mim
+
+Estudante de Ciência da Computação na **Universidade de Mogi das Cruzes (UMC)**, desbravando o universo da tecnologia como quem domina o campo de batalha com um só olhar.
+
+Atualmente me aprofundo nos mistérios do desenvolvimento em **Java**, criando aplicações com boas práticas, segurança e estrutura sólida — sempre buscando superar meus próprios limites.
+
+> Algumas pessoas codam. Eu invoco soluções. 🕯️
+
+---
+
+### ⚔️ Stack Principal
+
+<div style="display: flex; justify-content: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
 </div>
 
 ---
 
-### 👁️ Visão do Seis Olhos (Sobre Mim)
+### 🧩 Aprendizados Atuais
 
-Olá! Eu sou o Alan, um **estudante de Ciência da Computação** que, como Gojo Satoru, está sempre expandindo seus limites no mundo da tecnologia. Sou apaixonado por **desenvolvimento de software** e, atualmente, estou desvendando os segredos de ADS na **Universidade de Mogi das Cruzes (UMC)**. Meu domínio atual? O **Java**! ✨
-
----
-
-### 🌌 Meu Domínio (Interesses e Objetivos)
-
-Meu principal objetivo é simples: **aprender e evoluir cada vez mais** na área de desenvolvimento de software. Assim como um feiticeiro jujutsu busca aprimorar suas técnicas, estou sempre em busca de **novos desafios e oportunidades** para fortalecer minhas habilidades e contribuir para projetos tão inovadores quanto o "Hollow Purple".
+- Desenvolvimento de APIs REST com **Spring Boot**
+- Integração com bancos de dados relacionais (**MySQL**)
+- Conceitos de **Clean Code**, **CI/CD** e **Docker**
+- Deploy e versionamento com **Git/GitHub**
+- Fundamentos de **DevOps** e **Testes**
 
 ---
 
-### 🔮 Técnicas de Desenvolvimento (Habilidades Atuais)
+### 🔮 Um pouco de mim
 
-* **Linguagem Primária:** Java 💙
-* **Em Estudo:** [**Adicione aqui outras linguagens/tecnologias que você esteja explorando, por exemplo: Python, JavaScript, Spring Boot, etc.**]
-* **Conceitos:** Programação Orientada a Objetos, Estruturas de Dados.
-
----
-
-### 🤝 Conexões de Energia Amaldiçoada
-
-Se você também está nesse universo da programação ou quer trocar ideias, me encontre por aí!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](**SEU_LINK_DO_LINKEDIN_AQUI**)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/**SEU_USUARIO_GITHUB_AQUI**)
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1eDF4MnU5dmx4ZWdndWtsajRtd3A2bHBtdXpzcDN2bDNmOGk5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kHHjK2bB0XWd47tP2i/giphy.gif" alt="Gojo Satoru acenando com um sorriso" width="350"/>
-</div>
+```txt
+“Não espero que entenda minha motivação.
+Só saiba que, ao final, tudo estará em perfeito equilíbrio.”
