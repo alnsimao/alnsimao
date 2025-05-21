@@ -15,6 +15,7 @@ Estudante de Ciência da Computação na **Universidade de Mogi das Cruzes (UMC)
 Atualmente me aprofundo nos mistérios do desenvolvimento em **Java**, criando aplicações com boas práticas, segurança e estrutura sólida — sempre buscando superar meus próprios limites.
 
 > Algumas pessoas codam. Eu invoco soluções. 🕯️
+> <p align="center"> <img src="https://media.tenor.com/1bQjBltzOCwAAAAd/sukuna.gif" width="300"/> </p> <p align="center"> <b>"Não preciso de sorte. Tenho habilidade."</b> </p> ```
 
 ---
 
@@ -46,3 +47,5 @@ Atualmente me aprofundo nos mistérios do desenvolvimento em **Java**, criando a
 ```txt
 “Não espero que entenda minha motivação.
 Só saiba que, ao final, tudo estará em perfeito equilíbrio.”
+
+
