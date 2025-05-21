@@ -1,4 +1,4 @@
-<img src="assets/gojo.png" width="100%" alt="Banner Satoru Gojo Style" />
+<img src="gojo.png" width="100%" alt="Banner Satoru Gojo Style" />
 
 <h1 align="center">💙 Alan | Dev Além do Infinito 💙</h1>
 
