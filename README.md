@@ -1,6 +1,6 @@
 <img src="gojo.png" width="100%" alt="Banner Satoru Gojo Style" />
 
-<h1 align="center">💙 Alan | Dev Além do Infinito 💙</h1>
+<h1 align="center">👁️ Alan | O Dev dos Seis Olhos 👁️</h1>
 
 <p align="center">
   <i>"Ao invés de confiar nos outros, eu prefiro acreditar em mim mesmo."</i>
@@ -18,6 +18,9 @@ Atualmente focado em **Java**, estou construindo aplicações robustas com princ
 > <p align="center"><img src="https://media.tenor.com/Basdn8F_3Y0AAAAd/gojo-satoru-jujutsu-kaisen.gif" width="280" /></p>
 > <p align="center"><b>“Você não está no mesmo nível que eu.”</b></p>
 
+
+> "Quando eu programo, não é só sobre resolver.  
+> É sobre mostrar que não existe bug que me alcance."
 ---
 
 ### 💥 Stack Principal
@@ -40,6 +43,15 @@ Atualmente focado em **Java**, estou construindo aplicações robustas com princ
 - Princípios de **Clean Code**, **CI/CD** e **Docker**
 - Versionamento com **Git/GitHub**
 - Fundamentos de **Testes** e **DevOps**
+
+---
+---
+
+### 🧠 Frases que definem meu código
+
+> 💬 “Não é arrogância se é verdade.”  
+> 💬 “Você nunca vai alcançar meu nível... mas pode tentar.”  
+> 💬 “O problema não é o bug. É o medo de enfrentá-lo.”
 
 ---
 
