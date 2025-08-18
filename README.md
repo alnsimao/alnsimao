@@ -1,34 +1,22 @@
-<img src="gojo.png" width="100%" alt="Banner Satoru Gojo Style" />
+# 👨‍💻 Alan Simão
 
-<h1 align="center">👁️ Alan | O Dev dos Seis Olhos 👁️</h1>
+### 💻 Desenvolvedor Backend | Java & Spring Boot
 
-<p align="center">
-  <i>"Ao invés de confiar nos outros, eu prefiro acreditar em mim mesmo."</i>
-</p>
+Estudante de **Ciência da Computação (UMC)** e desenvolvedor backend em formação.  
+Atualmente focado em **Java, Spring Boot, APIs REST, Docker e bancos de dados relacionais**.  
+Busco constantemente aplicar boas práticas de **arquitetura, segurança e performance** em meus projetos.
 
 ---
 
-### 🧠 Sobre mim
+## 🚀 Tecnologias e Ferramentas
 
-Estudante de Ciência da Computação na **Universidade de Mogi das Cruzes (UMC)**, estou em constante expansão, sempre ultrapassando os limites da programação como quem manipula o Infinito.
-
-Atualmente focado em **Java**, estou construindo aplicações robustas com princípios sólidos de arquitetura, segurança e performance.
-
-> “Não é arrogância se você consegue sustentar.”  
-> <p align="center"><img src="https://media.tenor.com/Basdn8F_3Y0AAAAd/gojo-satoru-jujutsu-kaisen.gif" width="280" /></p>
-> <p align="center"><b>“Você não está no mesmo nível que eu.”</b></p>
-
-
-> "Quando eu programo, não é só sobre resolver.  
-> É sobre mostrar que não existe bug que me alcance."
----
-
-### 💥 Stack Principal
-
-<div style="display: flex; justify-content: center;">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
@@ -36,26 +24,26 @@ Atualmente focado em **Java**, estou construindo aplicações robustas com princ
 
 ---
 
-### ⚡ Aprendizados Atuais
+## 📌 Projetos em Destaque
 
-- Criação de APIs REST com **Spring Boot**
-- Integração de banco de dados com **MySQL**
-- Princípios de **Clean Code**, **CI/CD** e **Docker**
-- Versionamento com **Git/GitHub**
-- Fundamentos de **Testes** e **DevOps**
-
----
----
-
-### 🧠 Frases que definem meu código
-
-> 💬 “Não é arrogância se é verdade.”  
-> 💬 “Você nunca vai alcançar meu nível... mas pode tentar.”  
-> 💬 “O problema não é o bug. É o medo de enfrentá-lo.”
+### [📚 Cadastro de Alunos - API REST](https://github.com/seu-usuario/cadastro-alunos)
+API desenvolvida em **Java + Spring Boot**, com autenticação, criptografia de senha e deploy em **Docker/Render**.  
+- CRUD completo de alunos  
+- Login com senha criptografada (**BCrypt**)  
+- Troca de senha segura  
+- Deploy containerizado  
 
 ---
 
-### 🔵 Um pouco de mim
+## 📈 Aprendizados Atuais
+- Criação de **APIs REST** com Spring Boot  
+- Integração com **MySQL** e PostgreSQL  
+- **Containerização** de aplicações com Docker  
+- **Clean Code** e boas práticas de desenvolvimento  
+- **CI/CD e Deploy** em nuvem (Render)  
+- Fundamentos de **Testes automatizados** e **DevOps**
 
-```txt
-“Não importa o quão escuro esteja, se eu estiver lá… o caminho se abre.”
+---
+
+## 📬 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-simao-89105a245/)  
