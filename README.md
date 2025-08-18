@@ -26,7 +26,7 @@ Busco constantemente aplicar boas práticas de **arquitetura, segurança e perfo
 
 ## 📌 Projetos em Destaque
 
-### [📚 Cadastro de Alunos - API REST](https://github.com/alnsimao/cadastro-alunos)
+### [📚 Cadastro de Alunos - API REST](https://github.com/alnsimao/api-cadastro-alunos)
 API desenvolvida em **Java + Spring Boot**, com autenticação, criptografia de senha e deploy em **Docker/Render**.  
 - CRUD completo de alunos  
 - Login com senha criptografada (**BCrypt**)  
