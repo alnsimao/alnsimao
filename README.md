@@ -2,7 +2,7 @@
 
 ### 💻 Desenvolvedor Backend | Java & Spring Boot
 
-Estudante de **Ciência da Computação (UMC)** e desenvolvedor backend em formação.  
+Estudante de **Análise e Desenvolvimnento de Sistemas (UMC)** e desenvolvedor backend em formação.  
 Atualmente focado em **Java, Spring Boot, APIs REST, Docker e bancos de dados relacionais**.  
 Busco constantemente aplicar boas práticas de **arquitetura, segurança e performance** em meus projetos.
 
